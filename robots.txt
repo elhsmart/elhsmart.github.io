@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://elhsmart.github.io/sitemap.xml 
+Sitemap: http://firedengie.me/sitemap.xml 
