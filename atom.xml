@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fired Programmer]]></title>
+  <link href="http://firedengie.me/atom.xml" rel="self"/>
+  <link href="http://firedengie.me/"/>
+  <updated>2015-05-24T07:21:30+03:00</updated>
+  <id>http://firedengie.me/</id>
+  <author>
+    <name><![CDATA[Ed Tretyakov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduce yourself please...]]></title>
+    <link href="http://firedengie.me/blog/2015/05/24/introduce-yourself-please/"/>
+    <updated>2015-05-24T06:31:10+03:00</updated>
+    <id>http://firedengie.me/blog/2015/05/24/introduce-yourself-please</id>
+    <content type="html"><![CDATA[<p>So, this is happened. I was fired.</p>
+
+<p>Hello everyone, my name is Ed Tretyakov, I&rsquo;m PHP/JS LAMP fullstack dev and this shiny github blog is a little story about my life after breaking with my Dreamjob. I was working for DeviatArt little bit more that 1 year and was fired less than a month ago. And this was not about my skills or exp as my manager said - company just refocusing it needs. And I don&rsquo;t needed anymore. Sad smile must be here, lol.</p>
+
+<p>Why i&rsquo;m here?</p>
+
+<!-- more -->
+
+
+<p>From the beginning this blog main purpose is to keep my head cool and one more try to analyze a little my mistakes in the long journey to search a new job (I hope it will be my next Dreamjob). To be honest with every failed attempt my mood get lower and lower and I just start to think that somethnig is wrong with me.</p>
+
+<p>One more important thing (but I did not expect too much here) - maybe someone from companies, who answered to me with denial of single damn attempt with some easy-to-send template emails (from last emails - like Wikimedia talent search team, who answered with &ldquo;we have decided not to proceed with your candidacy&rdquo; and Formstack, who answered with &ldquo;we have chosen to pursue other candidates that better fit the needs of the role.&rdquo;) will see one day my posts and feel my pain too. Because it&rsquo;s fuckin hard to read this stuff without simple piece of understanding, where exactly I&rsquo;m failed. CV not interesting? Low experience? Not perfect language? Wrong skin color? Magnetic storms? Anything else? Nobody answer. And all this templates are sended from no-reply@&hellip; So, while talking to companies in the usual way is hard - maybe this blog helps? At least I hope so&hellip;</p>
+
+<p>And as for me this is really big problem. Ain&rsquo;t nobody give a single fuckin chance to proove yor skills or experience or passion to coding and engineering. Nobody. So far I seen only one company (CurrencyFair) who ask for some kind of test and while in the test submit form they promised to answer in 2 days - week passed and still nobody visit it.</p>
+
+<p>I will try to analyze what I&rsquo;ve done so far and what steps was processed with every company I&rsquo;m tried. It&rsquo;s interesting and if I can design and create some things in the process - that will be really awesome. And, yeah, I don&rsquo;t want to freeze and want to express somethnig new to me too, so why not? Freezed, bored, tired and upset programmer is dead for community and market, and I don&rsquo;t want to be dat dead thing.</p>
+
+<p>I want to close this blog when my job will find me, but who knows? Maybe I will like it and just change a title.</p>
+
+<p>Stay tuned.</p>
+
+<p>P.S. Sorry for my english, I live in Ukraine and not native speaker, so sometimes my language can be really bad.</p>
+]]></content>
+  </entry>
+  
+</feed>
