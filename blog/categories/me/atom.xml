@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: me | Fired Programmer]]></title>
-  <link href="http://firedengie.me/blog/categories/me/atom.xml" rel="self"/>
-  <link href="http://firedengie.me/"/>
-  <updated>2015-05-24T07:20:23+03:00</updated>
-  <id>http://firedengie.me/</id>
+  <link href="http://elhsmart.github.io/blog/categories/me/atom.xml" rel="self"/>
+  <link href="http://elhsmart.github.io/"/>
+  <updated>2015-05-24T07:32:48+03:00</updated>
+  <id>http://elhsmart.github.io/</id>
   <author>
     <name><![CDATA[Ed Tretyakov]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introduce yourself please...]]></title>
-    <link href="http://firedengie.me/blog/2015/05/24/introduce-yourself-please/"/>
+    <link href="http://elhsmart.github.io/blog/2015/05/24/introduce-yourself-please/"/>
     <updated>2015-05-24T06:31:10+03:00</updated>
-    <id>http://firedengie.me/blog/2015/05/24/introduce-yourself-please</id>
+    <id>http://elhsmart.github.io/blog/2015/05/24/introduce-yourself-please</id>
     <content type="html"><![CDATA[<p>So, this is happened. I was fired.</p>
 
 <p>Hello everyone, my name is Ed Tretyakov, I&rsquo;m PHP/JS LAMP fullstack dev and this shiny github blog is a little story about my life after breaking with my Dreamjob. I was working for DeviantArt little bit more that 1 year and was fired less than a month ago. And this was not about my skills or exp as my manager said - company just refocusing it needs. And I don&rsquo;t needed anymore. Sad smile must be here, lol.</p>
