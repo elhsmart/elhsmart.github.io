@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blogging | Fired Programmer]]></title>
+  <link href="http://elhsmart.github.io/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://elhsmart.github.io/"/>
+  <updated>2015-05-26T06:15:24+03:00</updated>
+  <id>http://elhsmart.github.io/</id>
+  <author>
+    <name><![CDATA[Ed Tretyakov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress is fun!]]></title>
+    <link href="http://elhsmart.github.io/blog/2015/05/26/octopress-is-fun/"/>
+    <updated>2015-05-26T04:20:14+03:00</updated>
+    <id>http://elhsmart.github.io/blog/2015/05/26/octopress-is-fun</id>
+    <content type="html"><![CDATA[<p>Well, it&rsquo;s really new way to maintain your blog. Forget about wordpress or any another and mind-broken overweight piece of PHP code, self-hosted blogs, site maintaining, lost database passwords, extremely high traffic from page with your kitty pic and alarms from provider about &ldquo;extending your plan immediately!&rdquo; and so on. You just don&rsquo;t need it anymore.</p>
+
+<p>Github account, some basic ruby/DNS knowledge (and as i seen - it&rsquo;s more about duck typing copy-pasted commands to shell) - and you ready to go!</p>
+
+<!-- more -->
+
+
+<p>I don&rsquo;t want to retell everything that describe Octopress install guide and Jekyll internals. The basics of this blog engines can be described with simple words - everything is pre-generated and committed to Github pages as completely static site with all pages relinking and so on. Like a static cache instead of dynamic page generation (like Wordpress).</p>
+
+<p>That&rsquo;s why blogs on Jekyll-based engines is blazing-fast. And with Github protection you can be sure that your blog will be safe and alive in 99% of problems. I really believe in capabilities of Github team - dat guys know how to cook everything tasty.</p>
+
+<p>Where is no any problem with customization and custom themes - just type some commands from your choosen theme site (like i did with Slim theme) - and it will be installed properly. Wanna change it? Go and edit simple HTML templates.</p>
+
+<p>Even comments exist for this Blogs! Thanks to Disqus.</p>
+
+<p>But event better is blogging itself - markdown is perfect choice for this as for me and simple editing of pre-generated files is fun. Preview on your local host is available, so you can easily fix somethnig before post.</p>
+
+<p>Yea, I was amazed how simple and easy Octopress is. So, wanna try something new? Really hackable, easy-to-use and absolutely programmer&rsquo;s way to blog? Go and checkout <a href="http://octopress.org">Octopress</a> now - it really worth a try.</p>
+]]></content>
+  </entry>
+  
+</feed>

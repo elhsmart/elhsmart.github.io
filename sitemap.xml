@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://elhsmart.github.io/blog/2015/05/26/octopress-is-fun/</loc>
+    <lastmod>2015-05-26T04:20:14+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/2015/05/26/daily-update-26-dot-05/</loc>
+    <lastmod>2015-05-26T04:19:48+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://elhsmart.github.io/blog/2015/05/25/its-all-about-money-currencyfair/</loc>
     <lastmod>2015-05-25T07:52:41+03:00</lastmod>
   </url>
@@ -15,6 +23,9 @@
     <loc>http://elhsmart.github.io/</loc>
   </url>
   <url>
+    <loc>http://elhsmart.github.io/about/</loc>
+  </url>
+  <url>
     <loc>http://elhsmart.github.io/blog/categories/progress/</loc>
   </url>
   <url>
@@ -25,5 +36,14 @@
   </url>
   <url>
     <loc>http://elhsmart.github.io/blog/categories/tests/</loc>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/categories/daily/</loc>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/categories/updates/</loc>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/categories/blogging/</loc>
   </url>
 </urlset>

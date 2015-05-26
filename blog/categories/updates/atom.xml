@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: updates | Fired Programmer]]></title>
+  <link href="http://elhsmart.github.io/blog/categories/updates/atom.xml" rel="self"/>
+  <link href="http://elhsmart.github.io/"/>
+  <updated>2015-05-26T06:15:24+03:00</updated>
+  <id>http://elhsmart.github.io/</id>
+  <author>
+    <name><![CDATA[Ed Tretyakov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Daily Update - 26.05]]></title>
+    <link href="http://elhsmart.github.io/blog/2015/05/26/daily-update-26-dot-05/"/>
+    <updated>2015-05-26T04:19:48+03:00</updated>
+    <id>http://elhsmart.github.io/blog/2015/05/26/daily-update-26-dot-05</id>
+    <content type="html"><![CDATA[<p><strong>Days without job:</strong> 26</p>
+
+<p><strong>Cover letters and CV sent to</strong>: Autodesk (no remote positions, will be dropped with 95% chance, but hope dies last), Bark.com, Datastax (I hate Jobvite CV submit form - it not allow to post PDF files! In 2015, CARL!), Imgur (i love it, but did not expect too much - no remote positions, so my application in 95% chance will be dropped)</p>
+
+<p><strong>First letter received:</strong> Eyeo.com (Developer of AdBlockPlus, requested some info about my JS/Python/OSS background. Seems like HR manager didn&rsquo;t open my CV at all. So I described a little my experience and now I hope this letter will be useful).</p>
+
+<p><strong>On Hold:</strong> CurrencyFair</p>
+]]></content>
+  </entry>
+  
+</feed>

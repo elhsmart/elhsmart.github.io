@@ -4,7 +4,7 @@
   <title><![CDATA[Fired Programmer]]></title>
   <link href="http://elhsmart.github.io/atom.xml" rel="self"/>
   <link href="http://elhsmart.github.io/"/>
-  <updated>2015-05-25T22:54:52+03:00</updated>
+  <updated>2015-05-26T06:15:24+03:00</updated>
   <id>http://elhsmart.github.io/</id>
   <author>
     <name><![CDATA[Ed Tretyakov]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress is fun!]]></title>
+    <link href="http://elhsmart.github.io/blog/2015/05/26/octopress-is-fun/"/>
+    <updated>2015-05-26T04:20:14+03:00</updated>
+    <id>http://elhsmart.github.io/blog/2015/05/26/octopress-is-fun</id>
+    <content type="html"><![CDATA[<p>Well, it&rsquo;s really new way to maintain your blog. Forget about wordpress or any another and mind-broken overweight piece of PHP code, self-hosted blogs, site maintaining, lost database passwords, extremely high traffic from page with your kitty pic and alarms from provider about &ldquo;extending your plan immediately!&rdquo; and so on. You just don&rsquo;t need it anymore.</p>
+
+<p>Github account, some basic ruby/DNS knowledge (and as i seen - it&rsquo;s more about duck typing copy-pasted commands to shell) - and you ready to go!</p>
+
+<!-- more -->
+
+
+<p>I don&rsquo;t want to retell everything that describe Octopress install guide and Jekyll internals. The basics of this blog engines can be described with simple words - everything is pre-generated and committed to Github pages as completely static site with all pages relinking and so on. Like a static cache instead of dynamic page generation (like Wordpress).</p>
+
+<p>That&rsquo;s why blogs on Jekyll-based engines is blazing-fast. And with Github protection you can be sure that your blog will be safe and alive in 99% of problems. I really believe in capabilities of Github team - dat guys know how to cook everything tasty.</p>
+
+<p>Where is no any problem with customization and custom themes - just type some commands from your choosen theme site (like i did with Slim theme) - and it will be installed properly. Wanna change it? Go and edit simple HTML templates.</p>
+
+<p>Even comments exist for this Blogs! Thanks to Disqus.</p>
+
+<p>But event better is blogging itself - markdown is perfect choice for this as for me and simple editing of pre-generated files is fun. Preview on your local host is available, so you can easily fix somethnig before post.</p>
+
+<p>Yea, I was amazed how simple and easy Octopress is. So, wanna try something new? Really hackable, easy-to-use and absolutely programmer&rsquo;s way to blog? Go and checkout <a href="http://octopress.org">Octopress</a> now - it really worth a try.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Daily Update - 26.05]]></title>
+    <link href="http://elhsmart.github.io/blog/2015/05/26/daily-update-26-dot-05/"/>
+    <updated>2015-05-26T04:19:48+03:00</updated>
+    <id>http://elhsmart.github.io/blog/2015/05/26/daily-update-26-dot-05</id>
+    <content type="html"><![CDATA[<p><strong>Days without job:</strong> 26</p>
+
+<p><strong>Cover letters and CV sent to</strong>: Autodesk (no remote positions, will be dropped with 95% chance, but hope dies last), Bark.com, Datastax (I hate Jobvite CV submit form - it not allow to post PDF files! In 2015, CARL!), Imgur (i love it, but did not expect too much - no remote positions, so my application in 95% chance will be dropped)</p>
+
+<p><strong>First letter received:</strong> Eyeo.com (Developer of AdBlockPlus, requested some info about my JS/Python/OSS background. Seems like HR manager didn&rsquo;t open my CV at all. So I described a little my experience and now I hope this letter will be useful).</p>
+
+<p><strong>On Hold:</strong> CurrencyFair</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It's all about money - CurrencyFair]]></title>
