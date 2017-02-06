@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: blogging | Fired Programmer]]></title>
+  <title><![CDATA[Category: blogging | Not <strike>Fired</string> Programmer]]></title>
   <link href="http://elhsmart.github.io/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://elhsmart.github.io/"/>
-  <updated>2015-05-26T06:48:09+03:00</updated>
+  <updated>2017-02-06T07:24:54+02:00</updated>
   <id>http://elhsmart.github.io/</id>
   <author>
     <name><![CDATA[Ed Tretyakov]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Time to rewamp this into something new...]]></title>
+    <link href="http://elhsmart.github.io/blog/2017/02/06/time-to-rewamp-this-into-something-new-dot-dot-dot/"/>
+    <updated>2017-02-06T07:17:54+02:00</updated>
+    <id>http://elhsmart.github.io/blog/2017/02/06/time-to-rewamp-this-into-something-new-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>So it is more than one year go from time I get lost in my dreams about great remote job. And today I decide to cleanup this debris and create on top of it something new.</p>
+
+<p>Dunno what it will be, but, for now, I have a job, I have something to eat and my mind still in great condition! New ideas? New themes? New crazy thinhs? Aww yeah, and I like this.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress is fun!]]></title>
