@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: future, | Not <strike>Fired</strike> Programmer]]></title>
+  <link href="http://elhsmart.github.io/blog/categories/future/atom.xml" rel="self"/>
+  <link href="http://elhsmart.github.io/"/>
+  <updated>2017-02-10T17:31:28+02:00</updated>
+  <id>http://elhsmart.github.io/</id>
+  <author>
+    <name><![CDATA[Ed Tretyakov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Idea: Automatic plains spotter]]></title>
+    <link href="http://elhsmart.github.io/blog/2017/02/06/idea-automatic-plains-spotter/"/>
+    <updated>2017-02-06T07:29:14+02:00</updated>
+    <id>http://elhsmart.github.io/blog/2017/02/06/idea-automatic-plains-spotter</id>
+    <content type="html"><![CDATA[<p>And this blog will contain ideas for future projects. Or somethnig similar.</p>
+
+<p>One of them - automatic photo/video camera for plain spotters on the site of Airport with plane type / date of arrival and intellectual camera tergeting system to follow plane during landing / take off.</p>
+]]></content>
+  </entry>
+  
+</feed>

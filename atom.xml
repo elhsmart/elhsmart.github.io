@@ -4,7 +4,7 @@
   <title><![CDATA[Not <strike>Fired</strike> Programmer]]></title>
   <link href="http://elhsmart.github.io/atom.xml" rel="self"/>
   <link href="http://elhsmart.github.io/"/>
-  <updated>2017-02-06T07:26:14+02:00</updated>
+  <updated>2017-02-10T17:31:28+02:00</updated>
   <id>http://elhsmart.github.io/</id>
   <author>
     <name><![CDATA[Ed Tretyakov]]></name>
@@ -14,13 +14,39 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Cars sellers photo helper]]></title>
+    <link href="http://elhsmart.github.io/blog/2017/02/10/cars-sellers-photo-helper/"/>
+    <updated>2017-02-10T17:26:15+02:00</updated>
+    <id>http://elhsmart.github.io/blog/2017/02/10/cars-sellers-photo-helper</id>
+    <content type="html"><![CDATA[<p>This is something interesting to leverage time and money for nothnig during photo shots of your old fashioned stylish car.</p>
+
+<p>I&rsquo;ve imagine something like tubular spherical cunstruction with tiny motorized drive unit with stepper motor and wifi module to take
+shots from GoPro / any other camera from different angles. And this will help you to take photos from top spot points and other places, whis is not accessible during
+your stand near car.</p>
+
+<p>Another solution - creage custom software for drone, which can apply focing data to camera and take shots on the fly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Idea: Automatic plains spotter]]></title>
+    <link href="http://elhsmart.github.io/blog/2017/02/06/idea-automatic-plains-spotter/"/>
+    <updated>2017-02-06T07:29:14+02:00</updated>
+    <id>http://elhsmart.github.io/blog/2017/02/06/idea-automatic-plains-spotter</id>
+    <content type="html"><![CDATA[<p>And this blog will contain ideas for future projects. Or somethnig similar.</p>
+
+<p>One of them - automatic photo/video camera for plain spotters on the site of Airport with plane type / date of arrival and intellectual camera tergeting system to follow plane during landing / take off.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Time to rewamp this into something new...]]></title>
     <link href="http://elhsmart.github.io/blog/2017/02/06/time-to-rewamp-this-into-something-new-dot-dot-dot/"/>
     <updated>2017-02-06T07:17:54+02:00</updated>
     <id>http://elhsmart.github.io/blog/2017/02/06/time-to-rewamp-this-into-something-new-dot-dot-dot</id>
     <content type="html"><![CDATA[<p>So it is more than one year go from time I get lost in my dreams about great remote job. And today I decide to cleanup this debris and create on top of it something new.</p>
 
-<p>Dunno what it will be, but, for now, I have a job, I have something to eat and my mind still in great condition! New ideas? New themes? New crazy thinhs? Aww yeah, and I like this.</p>
+<p>Dunno what it will be, but, for now, I have a job, I have something to eat and my mind still in great condition! New ideas? New themes? New crazy things? Aww yeah, and I like this.</p>
 ]]></content>
   </entry>
   

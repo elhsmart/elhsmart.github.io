@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://elhsmart.github.io/blog/2017/02/10/cars-sellers-photo-helper/</loc>
+    <lastmod>2017-02-10T17:26:15+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/2017/02/06/idea-automatic-plains-spotter/</loc>
+    <lastmod>2017-02-06T07:29:14+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://elhsmart.github.io/blog/2017/02/06/time-to-rewamp-this-into-something-new-dot-dot-dot/</loc>
     <lastmod>2017-02-06T07:17:54+02:00</lastmod>
   </url>
@@ -52,5 +60,8 @@
   </url>
   <url>
     <loc>http://elhsmart.github.io/blog/categories/ideas/</loc>
+  </url>
+  <url>
+    <loc>http://elhsmart.github.io/blog/categories/future/</loc>
   </url>
 </urlset>
